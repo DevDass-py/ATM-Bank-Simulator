@@ -1,0 +1,23 @@
+Type: Deposit
+Amount: Rs. 2,000
+Balance after Transaction Rs.52000
+
+Type: Deposit
+Amount: Rs. 3,000
+Balance after Transaction Rs.53000
+
+Type: Withdrawal
+Amount Rs. 15,000
+Balance after Transaction: Rs.35000
+
+Type: Withdrawal
+Amount Rs. 20,000
+Balance after Transaction: Rs.30000
+
+Type: Withdrawal
+Amount Rs. 10,000
+Balance after Transaction: Rs.40000
+
+Type: Deposit
+Amount: Rs. -23
+Balance after Transaction Rs.49977

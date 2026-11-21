@@ -1,0 +1,4 @@
+Account Holder: Dev Dass
+Account Number: 123456789
+Bank Name: Python Bank
+Account Type: Savings
